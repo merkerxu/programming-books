@@ -2,5 +2,7 @@
 ## SRE
 - Site Reliability Engineering
 - The Site Reliability Workbook
-## Liunx&Unix
+## Linux&Unix
 - Advanced Programming in the Unix Environment(3rd)
+## Algorithms
+- Algorithms(Jeff Erickson)
