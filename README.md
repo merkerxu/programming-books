@@ -6,3 +6,5 @@
 - Advanced Programming in the Unix Environment(3rd)
 ## Algorithms
 - Algorithms(Jeff Erickson)
+## Nginx
+- OpenResty Best Practices
