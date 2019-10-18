@@ -12,3 +12,5 @@
 - Graph Algorithms(Practical Examples in Apache Spark&Neo4j)
 ## Nginx
 - OpenResty Best Practices
+## Mathematics
+- Linear algebra and its applications
