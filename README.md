@@ -13,4 +13,4 @@
 ## Nginx
 - OpenResty Best Practices
 ## Mathematics
-- Linear algebra and its applications
+- Linear algebra and its applications(Gilbert Strang)
