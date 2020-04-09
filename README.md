@@ -2,6 +2,7 @@
 ## SRE
 - Site Reliability Engineering
 - The Site Reliability Workbook
+- Building Secure&Reliable Systems
 ## Linux&Unix
 - Advanced Programming in the Unix Environment(3rd)
 - The Linux Command Line
