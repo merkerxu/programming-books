@@ -10,6 +10,7 @@
 ## Algorithms
 - Algorithms(Jeff Erickson)
 - Advanced Data Structures
+- Modern Computer Arithmetic
 - Graph Algorithms(Practical Examples in Apache Spark&Neo4j)
 ## Nginx
 - OpenResty Best Practices,[Ref](https://github.com/moonbingbing/openresty-best-practices)
